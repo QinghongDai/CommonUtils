@@ -5,7 +5,7 @@ This project provides utility functions to **decode an octal string into an arra
 Each byte element in the array is represented in **decimal form**. The solution works for **long input strings**.
 
 ## Language / Tools
-- Java 17  
+- Java 21  
 - Maven (for project management)
 
 ## Features
